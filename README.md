@@ -1,4 +1,4 @@
-# ☢️ What is Deep Learning Perception?
+# 🧠 What is Deep Learning Perception?
 
 <p align='justify'>Deep Learning Perception refers a branch of artificial intelligence that mimics the human brain's ability to perceive and recognize patterns, enabling machines to make decisions based on visual inputs. It plays a crucial role in various domains such as autonomous driving, medical image analysis, and robotics, where visual cognition is critical.</p>
 
