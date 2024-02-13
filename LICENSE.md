@@ -8,12 +8,13 @@ Permissions: <br>
 ✅ Learning use <br>
 
 Limitations: <br>
-❌ commercial use <br>
-❌ modification  <br>
-❌ distribution  <br>
-❌ trademark use  <br>
-❌ liability  <br>
-❌ warranty  <br>
-❌ patent use <br>
-
-
+❌ Commercial use <br>
+❌ Modification <br>
+❌ Distribution <br>
+❌ Trademark use <br>
+❌ Copying or re-uploading documentation <br>
+❌ Creating derivative works <br>
+❌ Copying the work (images or assets) <br>
+❌ Liability <br>
+❌ Warranty <br>
+❌ Patent use <br>
