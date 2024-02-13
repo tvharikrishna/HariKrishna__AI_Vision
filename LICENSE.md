@@ -10,11 +10,11 @@ Permissions: <br>
 Limitations: <br>
 ❌ Commercial use <br>
 ❌ Modification <br>
-❌ Distribution <br>
-❌ Trademark use <br>
+❌ Copying work (images or assets) <br>
 ❌ Copying or re-uploading documentation <br>
 ❌ Creating derivative works <br>
-❌ Copying the work (images or assets) <br>
+❌ Distribution <br>
+❌ Trademark use <br>
 ❌ Liability <br>
 ❌ Warranty <br>
 ❌ Patent use <br>
