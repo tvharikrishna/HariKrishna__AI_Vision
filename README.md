@@ -17,4 +17,3 @@
 | FCOS                   | R-CNN                  | SegNet              | FlowNet 2.0             |
 | YOLO                   | Fast R-CNN             | DeepLab             | FlowNet Simple          |
 | RetinaNet              | Faster R-CNN           | Mask R-CNN          | FlowNet Correlation     |
-
