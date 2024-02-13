@@ -8,7 +8,7 @@
 
 <p align='justify'>This repository meticulously documents my extensive journey through various projects related to cognitive perception using State-of-the-Art (SOTA) Deep Learning Models. Each project intricately tackles unique perception problems, showcasing the comprehensive application and unparalleled effectiveness of deep learning techniques in interpreting and understanding complex visual data.</p>
 
-# 🔻 State-of-the-Art (SOTA) Perception Models
+# 🔻 State-of-the-Art (SOTA) Deep Learning Perception Models
 
 | Single State Detectors | Double Stage Detectors | Vision Segmentation | Optical Flow Estimation |
 |------------------------|------------------------|---------------------|-------------------------|
