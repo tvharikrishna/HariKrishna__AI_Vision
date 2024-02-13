@@ -12,6 +12,6 @@ Limitations: <br>
 ❌ modification  <br>
 ❌ distribution  <br>
 ❌ trademark use  <br>
+❌ patent use <br>
 ❌ liability  <br>
 ❌ warranty  <br>
-❌ patent use <br>
