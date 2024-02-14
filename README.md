@@ -1,7 +1,7 @@
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
-# 🔻 What is Deep Learning Perception
+# 🔻 What is Deep Learning AI Perception
 
 <p align='justify'>Deep Learning Perception refers a branch of artificial intelligence that mimics the human brain's ability to perceive and recognize patterns, enabling machines to make decisions based on visual inputs. It plays a crucial role in various domains such as autonomous driving, medical image analysis, and robotics, where visual cognition is critical.</p>
 
@@ -17,3 +17,9 @@
 | FCOS                   | R-CNN                  | SegNet              | FlowNet 2.0             |
 | YOLO                   | Fast R-CNN             | DeepLab             | FlowNet Simple          |
 | RetinaNet              | Faster R-CNN           | Mask R-CNN          | FlowNet Correlation     |
+
+<hr> <br>
+
+<p align="center">
+    <img src="readme_data/funny_endquote_AI.png" alt="Alt text for your image" width="1500"/>
+</p>
