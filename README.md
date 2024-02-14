@@ -21,21 +21,21 @@
 # 🔻Tools & Technologies
 The following tools will be utilized in the development of these projects.
 
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" alt="Keras" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="TorchVision" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Pillow-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Pillow" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Seaborn" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" alt="Keras" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="TorchVision" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Pillow-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Pillow" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Seaborn" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="height: 22px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height: 22px;"/>
 
 <hr> <br>
 
