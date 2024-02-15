@@ -40,5 +40,5 @@ The following tools will be utilized in the development of these projects.
 <hr> <br>
 
 <p align="center">
-    <img src="readme_data/funny_endquote_AI.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/funny_endquote_CNN.png" alt="Alt text for your image" width="1500"/>
 </p>
