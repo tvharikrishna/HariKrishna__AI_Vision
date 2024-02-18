@@ -41,7 +41,7 @@ The following tools will be utilized in the development of these projects.
 <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="height: 22px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height: 22px;"/>
 
-<hr> <br>
+<hr>
 
 <p align="center">
     <img src="readme_data/HKAI_quote.png" alt="Alt text for your image" width="1500"/>
