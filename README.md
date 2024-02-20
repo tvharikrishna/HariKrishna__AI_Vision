@@ -13,12 +13,41 @@
 <!-- SOTA Models -->
 <h1>🔻 State-of-the-Art (SOTA) Perception Models</h1>
 
-| Single State Detectors | Double Stage Detectors | Vision Segmentation | Optical Flow Estimation |
-|------------------------|------------------------|---------------------|-------------------------|
-| SSD                    | R-FCN                  | U-Net               | RAFT                    |
-| FCOS                   | R-CNN                  | SegNet              | FlowNet 2.0             |
-| YOLO                   | Fast R-CNN             | DeepLab             | FlowNet Simple          |
-| RetinaNet              | Faster R-CNN           | Mask R-CNN          | FlowNet Correlation     |
+<div align="center">
+<table>
+<tr>
+    <th>Single State Detectors</th>
+    <th>Double Stage Detectors</th>
+    <th>Vision Segmentation</th>
+    <th>Optical Flow Estimation</th>
+</tr>
+<tr>
+    <td>SSD</td>
+    <td>R-FCN</td>
+    <td>U-Net</td>
+    <td>RAFT</td>
+</tr>
+<tr>
+    <td>FCOS</td>
+    <td>R-CNN</td>
+    <td>SegNet</td>
+    <td>FlowNet 2.0</td>
+</tr>
+<tr>
+    <td>YOLO</td>
+    <td>Fast R-CNN</td>
+    <td>DeepLab</td>
+    <td>FlowNet Simple</td>
+</tr>
+<tr>
+    <td>RetinaNet</td>
+    <td>Faster R-CNN</td>
+    <td>Mask R-CNN</td>
+    <td>FlowNet Correlation</td>
+</tr>
+</table>
+</div>
+
 
 <!-- Tools & Technology -->
 <h1>🔻 Tools & Technologies</h1>
