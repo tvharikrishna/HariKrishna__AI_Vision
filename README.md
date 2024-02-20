@@ -23,8 +23,6 @@
 <!-- Tools & Technology -->
 <h1>🔻 Tools & Technologies</h1>
 
-The following tools will be utilized in the development of these projects.
-
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="height: 22px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white" alt="Keras" style="height: 22px;"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 22px;"/> &nbsp;
