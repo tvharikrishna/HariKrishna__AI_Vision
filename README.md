@@ -17,10 +17,10 @@
 <table>
 <tr>
     <th>Classification</th>
-    <th>Single State Detectors</th>
-    <th>Double Stage Detectors</th>
-    <th>Vision Segmentation</th>
-    <th>Optical Flow Estimation</th>
+    <th>Single State</th>
+    <th>Double Stage</th>
+    <th>Segmentation</th>
+    <th>Optical Flow</th>
 </tr>
 <tr>
     <td>AlexNet</td>
