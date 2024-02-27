@@ -16,30 +16,35 @@
 <div align="center">
 <table>
 <tr>
+    <th>Classification</th>
     <th>Single State Detectors</th>
     <th>Double Stage Detectors</th>
     <th>Vision Segmentation</th>
     <th>Optical Flow Estimation</th>
 </tr>
 <tr>
+    <td>AlexNet</td>
     <td>SSD</td>
     <td>R-FCN</td>
     <td>U-Net</td>
     <td>RAFT</td>
 </tr>
 <tr>
+    <td>VGG</td>
     <td>FCOS</td>
     <td>R-CNN</td>
     <td>SegNet</td>
     <td>FlowNet 2.0</td>
 </tr>
 <tr>
+    <td>ResNet</td>
     <td>YOLO</td>
     <td>Fast R-CNN</td>
     <td>DeepLab</td>
     <td>FlowNet Simple</td>
 </tr>
 <tr>
+    <td>GoogleNet</td>
     <td>RetinaNet</td>
     <td>Faster R-CNN</td>
     <td>Mask R-CNN</td>
