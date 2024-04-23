@@ -6,7 +6,24 @@
 </p>
 
 <h1>🔻 What is Deep Learning AI Perception</h1>
-<p align='justify'>Deep Learning Perception refers a branch of artificial intelligence that mimics the human brain's ability to perceive and recognize patterns, enabling machines to make decisions based on visual inputs. It plays a crucial role in various domains such as autonomous driving, medical image analysis, and robotics etc.</p>
+<p align='justify'>Deep Learning Perception refers a branch of artificial intelligence that mimics the human brain's ability to perceive and recognize patterns, enabling machines to make decisions based on visual inputs. It plays a crucial role in various domains such as autonomous driving, medical image analysis, and robotics etc.</p> <br>
+
+<h1 align="left">🔻 Repository Details</h1>
+<table align="center">
+<thead>
+<tr>
+<th align="center">Naming Prefix</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>HK_AIVision__</strong></td>
+<td align="right">Perception using Deep Learning</td>
+</tr>
+</tbody>
+</table> <br>
+
 
 <h1>🔻 Repository Details</h1>
 <p align='justify'>This repository meticulously documents my extensive journey through various projects related to cognitive perception using State-of-the-Art (SOTA) Deep Learning Models. Each project intricately tackles unique perception problems, showcasing the comprehensive application and unparalleled effectiveness of deep learning techniques in interpreting and understanding complex visual data.</p>
