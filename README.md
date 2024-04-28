@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_AIVision__</strong></td>
+<td align="left"><strong>HKAI__</strong></td>
 <td align="right">Perception using Deep Learning</td>
 </tr>
 </tbody>
